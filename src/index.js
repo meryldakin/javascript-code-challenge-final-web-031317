@@ -1,3 +1,4 @@
 $(document).ready(function(){
-  // your code here!
+  let imageControl = new imageController()
+  imageControl.render()
 })
